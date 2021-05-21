@@ -21,13 +21,13 @@
     {
       "text": "Task 5",
       "day": "August 13th at 6:00am",
-      "reminder": false,
+      "reminder": true,
       "id": 4
     },
     {
       "text": "Task 6",
       "day": "January 14th at 7:10am",
-      "reminder": false,
+      "reminder": true,
       "id": 5
     }
   ]
