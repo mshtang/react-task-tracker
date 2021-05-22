@@ -27,7 +27,7 @@
     {
       "text": "Task 6",
       "day": "January 14th at 7:10am",
-      "reminder": true,
+      "reminder": false,
       "id": 5
     }
   ]
